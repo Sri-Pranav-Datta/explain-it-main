@@ -1,0 +1,13 @@
+project_id = "ityejjciguvaefjmvgwl"
+
+[functions.seed-products]
+verify_jwt = false
+
+[functions.get-recommendations]
+verify_jwt = false
+
+[functions.explain-recommendation]
+verify_jwt = false
+
+[functions.log-interaction]
+verify_jwt = false
